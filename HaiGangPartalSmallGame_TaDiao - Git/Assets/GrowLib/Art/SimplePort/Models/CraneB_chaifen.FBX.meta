@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 94bbbb6493757814b821cabcb34f1c71
+timeCreated: 1513588800
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: dianbi
+    100004: diaogou
+    100006: diaosheng
+    100008: Dummy003
+    100010: tadiao
+    100012: caozonggan01
+    100014: caozonggan02
+    100016: caozonggan03
+    100018: caozonggan04
+    100020: diaobi
+    100022: fangxiangpan
+    100024: polySurface118
+    400000: //RootNode
+    400002: dianbi
+    400004: diaogou
+    400006: diaosheng
+    400008: Dummy003
+    400010: tadiao
+    400012: caozonggan01
+    400014: caozonggan02
+    400016: caozonggan03
+    400018: caozonggan04
+    400020: diaobi
+    400022: fangxiangpan
+    400024: polySurface118
+    2300000: dianbi
+    2300002: diaogou
+    2300004: diaosheng
+    2300006: tadiao
+    2300008: caozonggan01
+    2300010: caozonggan02
+    2300012: caozonggan03
+    2300014: caozonggan04
+    2300016: diaobi
+    2300018: fangxiangpan
+    2300020: polySurface118
+    3300000: dianbi
+    3300002: diaogou
+    3300004: diaosheng
+    3300006: tadiao
+    3300008: caozonggan01
+    3300010: caozonggan02
+    3300012: caozonggan03
+    3300014: caozonggan04
+    3300016: diaobi
+    3300018: fangxiangpan
+    3300020: polySurface118
+    4300000: tadiao
+    4300002: dianbi
+    4300004: diaosheng
+    4300006: diaogou
+    4300008: polySurface118
+    4300010: diaobi
+    4300012: caozonggan01
+    4300014: caozonggan02
+    4300016: fangxiangpan
+    4300018: caozonggan03
+    4300020: caozonggan04
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

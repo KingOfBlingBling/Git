@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TaDiao/Scenes/TaDiao.unity
+  isLoaded: 1
+  isActive: 1
